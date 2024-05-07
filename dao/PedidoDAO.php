@@ -17,10 +17,6 @@ class PedidoDAO implements BaseDAO {
         // Implementação pra obter todos os pedidos
     }
 
-    public function getAll(){
-        
-    }
-
     public function create($entity) {
         // Implementação pra criar um pedido novo
     }
